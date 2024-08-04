@@ -1,0 +1,3 @@
+[submodule "server/my-app"]
+	path = server/my-app
+	url = https://github.com/AnilKumar145/Registration-Login-MERN-STACK.git
